@@ -50,3 +50,8 @@ This is a React.js-based quiz application that allows users to take quizzes with
 2. Answer Questions: Select the answers to the questions and click "Next Question" to proceed.
 3. View Results: After answering all questions, the results will be displayed, showing your score and feedback.
 4. Restart the Quiz: Click "Restart Quiz" to begin a new quiz session.
+
+
+
+## Deployed Link:
+https://subhquizapps.netlify.app/
